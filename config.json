@@ -37,18 +37,5 @@
          }
       }
     }
-  },
-  "access": {
-    "admin": {
-      "role": {
-        "admin": [
-          "tanigakimotoi@gmail.com"
-        ],
-        "config_admin": [
-          "6F5E27E369B558DF0A495F94@techacct.adobe.com"
-        ]
-      },
-      "requireAuth": "auto"
-    }
   }
 }
